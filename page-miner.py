@@ -2,11 +2,11 @@
 import typer
 import requests
 import os
-import aganitha_base_utils as aco_log
+from aganitha_base_utils import logconfig
 from bs4 import BeautifulSoup
 import csv
 
-aco_log.logconfig.setup_logging()
+logconfig.setup_logging()
 
 
 app = typer.Typer()
