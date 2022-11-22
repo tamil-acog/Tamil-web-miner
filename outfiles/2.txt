@@ -1,0 +1,1216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <meta property="og:type" content="website">
+    <meta
+    property="og:site_name" content="Aganitha AI">
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer'
+            ? '&l=' + l
+            : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', 'GTM-P6PVPGB');
+    </script>
+    <!-- End Google Tag Manager -->
+    
+      <title>
+        In silico solutions for Biopharma and Biotech R&amp;D | Aganitha
+      </title>
+      <meta property="og:title" content="In silico solutions for Biopharma and Biotech R&amp;D | Aganitha"/>
+      <meta name="twitter:title" content="In silico solutions for Biopharma and Biotech R&amp;D | Aganitha"">
+    
+    
+      <meta property="og:image" content="https://aganitha.ai/assets/images/ag-logo-full.svg"/>
+      <meta name="twitter:image" content="https://aganitha.ai/assets/images/ag-logo-full.svg"/>
+    
+    
+      <meta name="description" content="Accelerate drug discovery and development with in silico based computational biology and chemistry solutions leveraging Data, Analytics, AI, Machine Learning, Cloud, and DevOps"/>
+      <meta property="og:description" content="Accelerate drug discovery and development with in silico based computational biology and chemistry solutions leveraging Data, Analytics, AI, Machine Learning, Cloud, and DevOps"/>
+      <meta name="twitter:description" content="Accelerate drug discovery and development with in silico based computational biology and chemistry solutions leveraging Data, Analytics, AI, Machine Learning, Cloud, and DevOps"/>
+    
+    
+      <link rel='canonical' href='https://aganitha.ai'/>
+      <meta property="og:url" content="https://aganitha.ai"/>
+    
+    <meta property="og:type" content="article"/>
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"/>
+    <meta
+      name="keywords"
+      content="In silico, Genomics, BioInformatics, ChemInformatics, Computational Chemistry, Artifical Intelligence, Machine
+        Learning, Deep Learning, Enterprise AI, Automation, Knowledge Graph">
+    <link rel="icon" type="image/png" href="/assets/images/icons/favicon-16x16.png">
+    <link rel="manifest" href="/assets/images/icons/manifest.json">
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/images/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/images/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/images/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/images/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/images/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/images/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/images/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/images/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/icons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/images/icons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/icons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/images/icons/favicon-96x96.png">
+    <link rel="preload" as="image" href="/assets/images/banners/hero-extra-large.webp">
+    <link rel="preload" as="image" href="/assets/images/banners/hero-large.webp">
+    <link rel="preload" as="image" href="/assets/images/banners/hero-medium.webp">
+    <link rel="preload" as="image" href="/assets/images/banners/hero-small.webp">
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="/assets/styles/own-carousel.min.css">
+    <link rel="stylesheet" href="/assets/styles/nav.css">
+    <link rel="stylesheet" href="/assets/styles/styles.css">
+    <link rel="stylesheet" href="/style.css?v=1667800752543"/>
+    <script type="application/ld+json">
+      [ { "@context": "http://schema.org", "@type": "Corporation", "brand": "Aganitha", "name": "Aganitha AI Inc", "url":
+      "http://aganitha.ai/", "logo": "http://aganitha.ai/assets/images/aganitha-logo.webp", "foundingDate": "2017",
+      "founders": [{ "@type": "Person", "name": "Vikram Duvvoori" }, { "@type": "Person", "name": "Ramarao Kanneganti" }, {
+      "@type": "Person", "name": "Prasad Chodavarapu" }], "description": "Aganitha accelerates drug discovery and development
+      with in silico solutions. Aganitha partners with global biopharma to accelerate research and development through in
+      silico based bioinformatics solutions leveraging Cloud, Data, DevOps, Analytics and AI/ML.", "sameAs" : [
+      "https://in.linkedin.com/company/aganitha", "aganitha", "agnitha", "agantha", "aganeetha" ] }, { "@context":
+      "http://schema.org", "@type": "WebPage", "name": "Aganitha AI Inc", "headline": "Accelerate drug discovery and
+      development with in silico solutions.", "url": "http://aganitha.ai/", "specialty": [ "In silico", "Genomics",
+      "BioInformatics", "ChemInformatics", "Computational Chemistry", "Artificial Intelligence", "Machine Learning", "Deep
+      Learning", "Enterprise AI", "Automation", "Knowledge graph" ], "publisher": { "@type": "Corporation", "name": "Aganitha
+      AI Inc" } } ]
+    </script>
+    
+    
+    <script defer src="/assets/scripts/alpine.js"></script>
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177277145-1"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'UA-177277145-1');
+      </script>
+    
+  </head>
+  <body
+    class="page-body">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+      <iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-P6PVPGB"
+        height="0"
+        width="0"
+        style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+      <header class="header">
+   <div class="nav-container">
+      <div class="header-main max-w-screen-xl  sm:ag-container-padding">
+         <div class="logo">
+            <a href="/" class="flex items-center justify-center">
+               <img src="/assets/images/ag-logo-full.svg" class="w-32 sm:w-36" alt="">
+            </a>
+         </div>
+         <div class="open-nav-menu ">
+            <span></span>
+         </div>
+         <div class="menu-overlay"></div>
+         <!-- navigation menu start -->
+         <nav class="nav-menu">
+            <div class="close-nav-menu rounded">
+               <img src="/assets/images/navbar/close.svg" alt="close">
+            </div>
+            <ul
+               class="menu">
+               
+               <li class="menu-item menu-item-has-children">
+                  <a href="/biopharma/solutions-overview" data-toggle="sub-menu">Solutions
+                     <i class="plus"></i>
+                  </a>
+                  <ul class="sub-menu ">
+                      <li class="menu-item sub-item">
+                        <a href="/biopharma/solutions-overview" class="">
+                           Solutions Overview
+                        </a>
+                     </li>
+                      <li class="menu-item sub-item">
+                        <a href="/biopharma/antibody-engineering">Antibody Engineering</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/genome-wide-association-studies">GWAS Platform</a>
+                     </li>
+                    
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/knowledge-hubs">Knowledge Hubs</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/mrna-platform">
+                           mRNA Platform</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/omics-pipelining">Omics Pipelining</a>
+                     </li>
+                     
+                    
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/reaction-modeling-for-predicting-reaction-yield">Reaction Modeling</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/semantic-enrichment-for-informatics-research">Semantic Enrichment</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/smol-drug-discovery-design">SMOL Drug Design</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/biopharma/virtual-screening-for-faster-drug-development">Virtual Screening</a>
+                     </li>
+                     
+                     
+                     
+                  </ul>
+               </li>
+               <li class="menu-item menu-item-has-children">
+                  <a href="/services/drug-discovery-services-overview" data-toggle="sub-menu">Services
+                     <i class="plus"></i>
+                  </a>
+                  <ul class="sub-menu ">
+                     <li class="menu-item sub-item">
+                        <a href="/services/drug-discovery-services-overview">Services Overview</a>
+                     </li>
+                      <li class="menu-item sub-item">
+                        <a href="/services/computational-biology-bioinformatics">Computational Biology</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/services/computational-chemistry-cheminformatics">Computational Chemistry</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/services/technology-infrastructure-solutions-for-biopharma">Technology and Cloud Services</a>
+                     </li>
+                    
+                  </ul>
+               </li>
+               <li class="menu-item menu-item-has-children">
+                  <a href="/about" data-toggle="sub-menu">Company
+                     <i class="plus"></i>
+                  </a>
+                  <ul class="sub-menu">
+                     <li class="menu-item sub-item">
+                        <a href="/about">About Us</a>
+                     </li>
+                     <li class="menu-item sub-item">
+                        <a href="/team">Leadership</a>
+                     </li>
+                     
+                     <li class="menu-item sub-item">
+                        <a href="/contact">Contact Us</a>
+                     </li>
+                  </ul>
+               </li>
+               <li class="menu-item  ">
+                  <a href="/careers" class="hover:text-red-700">Join Us</a>
+               </li>
+            </ul>
+         </nav>
+         <!-- navigation menu end -->
+      </div>
+   </div>
+</header>
+    
+    <div class="mt-16 cursor-default">
+      
+
+    <div class=" border-gray-300 homepage-banner flex">
+  <div
+    class="section-inner-wrapper   my-auto border-yellow-400 px-4 sm:px-8  lg:container md:px-12 lg:px-16  md:mx-auto  ">
+    <!-- left side of hero section-->
+    <div class=" lg:w-2/3 md:mx-auto  text-center md:py-24">
+      <h1
+        class="text-4xl sm:text-5xl sm:leading-tight font-medium leading-snug md:leading-tight md:text-6xl text-gray-50 mb-8 md:mb-12">
+        Accelerate drug discovery and development with<span class="text-ag-secondary-red-500">
+          <span class="italic">in
+          silico </span>
+        </span> solutions
+      </h1>
+      <h2 class="text-base sm:text-lg md:text-xl leading-8 md:leading-relaxed text-gray-200 font-light mb-12">
+        Aganitha partners with global biopharma and biotech firms to build computational biology and chemistry solutions leveraging Data, Analytics, AI, Machine Learning, and Cloud.
+      </h2>
+      <!--button container-->
+      <div>
+        <a class="" href="mailto:info@aganitha.ai" id="banner">
+          <div class="cta-button-light w-48 mx-auto">
+            GET IN TOUCH
+
+          </div>
+        </a>
+
+      </div>
+    </div>
+
+    <!--right side of hero section -->
+    <div></div>
+  </div>
+</div>
+
+    
+    <div class="py-12">
+    <section class="text-gray-700  ">
+        <div class="max-w-screen-xl  ag-container-padding  flex flex-col  py-4 sm:py-10 mx-auto lg:items-center">
+            <div class="flex flex-col w-full text-left">
+                <h2 class="mb-8 text-left ag-h3 sm:text-left font-semibold  text-ag-primary-blue   ">Transforming biopharma R&D using computational sciences and AI</h2>
+                <h3 class="text-left mb-4  ag-h4  leading-relaxed text-gray-700 ">The biopharma industry is in the early stages of a dramatic transformation in how it  innovates, from research to development to clinical trials. We partner with biopharma companies to drive this transformation.</h3>
+                <h3 class="text-left  ag-h4 leading-relaxed text-gray-700 ">Our solutions enable biopharma R&D and IT to efficiently tackle the complexity, scale, and richness of modern R&D and clinical domains. They accelerate the adoption of the following transformative ideas to enhance the pace of innovation and deliver research and clinical outcomes.</h3>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="text-gray-700 max-w-screen-xl mx-auto ag-container-padding ">
+        
+
+        <div class="grid xl:gap-6 gap-4 sm:grid-cols-2  xl:grid-cols-3 pt-6 pb-4 ">
+
+            
+
+                <div
+                class="context-card-wrapper z-30 shadow-lg md:shadow-none  px-6 py-6 mx-auto  mb-4 max-w-lg hover:shadow-lg transition duration-300 rounded">
+                    <div class="context-icon-wrapper my-2">
+                        <img src=/assets/images/homepage/silico-1.svg class="w-16" alt="">
+                    </div>
+                    <div class="context-text-wrapper">
+                        <h4 class="context-header h-16 my-4 text-xl lg:text-2xl text-ag-primary-blue-800 font-medium">
+                            Contextualized <span class="italic">in silico</span> models
+                        </h4>
+                        <p class="context-description sm:text-base text-gray-600">
+                            Accelerate discovery of solutions to specific high value problem statements by augmenting <span class="italic">in vitro</span> experiments with  <span class="italic">in silico</span> models blending advances in computational biology, chemistry, AI, and cloud computing.
+                        </p>
+                    </div>
+                </div>
+
+            
+
+                <div
+                class="context-card-wrapper z-30 shadow-lg md:shadow-none  px-6 py-6 mx-auto  mb-4 max-w-lg hover:shadow-lg transition duration-300 rounded">
+                    <div class="context-icon-wrapper my-2">
+                        <img src=/assets/images/homepage/hp.svg class="w-16" alt="">
+                    </div>
+                    <div class="context-text-wrapper">
+                        <h4 class="context-header h-16 my-4 text-xl lg:text-2xl text-ag-primary-blue-800 font-medium">
+                            High throughput automation + AI
+                        </h4>
+                        <p class="context-description sm:text-base text-gray-600">
+                            Leverage the data delivered by high-throughput automation to build AI/ML models which can dramatically accelerate decision-making, reduce cycle times and drive efficiencies.
+                        </p>
+                    </div>
+                </div>
+
+            
+
+                <div
+                class="context-card-wrapper z-30 shadow-lg md:shadow-none  px-6 py-6 mx-auto  mb-4 max-w-lg hover:shadow-lg transition duration-300 rounded">
+                    <div class="context-icon-wrapper my-2">
+                        <img src=/assets/images/homepage/data.svg class="w-16" alt="">
+                    </div>
+                    <div class="context-text-wrapper">
+                        <h4 class="context-header h-16 my-4 text-xl lg:text-2xl text-ag-primary-blue-800 font-medium">
+                            Data as an R&D asset
+                        </h4>
+                        <p class="context-description sm:text-base text-gray-600">
+                            Systematically collect, organize, combine, and mine exploding public datasets alongside your hard-earned proprietary research findings to intelligently direct your design of experiments, cohorts, and endpoints.
+                        </p>
+                    </div>
+                </div>
+
+            
+
+                <div
+                class="context-card-wrapper z-30 shadow-lg md:shadow-none  px-6 py-6 mx-auto  mb-4 max-w-lg hover:shadow-lg transition duration-300 rounded">
+                    <div class="context-icon-wrapper my-2">
+                        <img src=/assets/images/homepage/bio.svg class="w-16" alt="">
+                    </div>
+                    <div class="context-text-wrapper">
+                        <h4 class="context-header h-16 my-4 text-xl lg:text-2xl text-ag-primary-blue-800 font-medium">
+                            High-concentration biological design
+                        </h4>
+                        <p class="context-description sm:text-base text-gray-600">
+                            Accelerate the design of high-concentration biological formulations by establishing models to predict and optimize physical, chemical, and biological properties <span class="italic">in silico</span>.
+                        </p>
+                    </div>
+                </div>
+
+            
+
+                <div
+                class="context-card-wrapper z-30 shadow-lg md:shadow-none  px-6 py-6 mx-auto  mb-4 max-w-lg hover:shadow-lg transition duration-300 rounded">
+                    <div class="context-icon-wrapper my-2">
+                        <img src=/assets/images/homepage/chemical.svg class="w-16" alt="">
+                    </div>
+                    <div class="context-text-wrapper">
+                        <h4 class="context-header h-16 my-4 text-xl lg:text-2xl text-ag-primary-blue-800 font-medium">
+                            Quantum chemical descriptors
+                        </h4>
+                        <p class="context-description sm:text-base text-gray-600">
+                            Combine the rigor of quantum chemistry with AI/ML to establish more reliable prediction models for physicochemical properties and reaction yields.
+                        </p>
+                    </div>
+                </div>
+
+            
+
+                <div
+                class="context-card-wrapper z-30 shadow-lg md:shadow-none  px-6 py-6 mx-auto  mb-4 max-w-lg hover:shadow-lg transition duration-300 rounded">
+                    <div class="context-icon-wrapper my-2">
+                        <img src=/assets/images/homepage/tools.svg class="w-16" alt="">
+                    </div>
+                    <div class="context-text-wrapper">
+                        <h4 class="context-header h-16 my-4 text-xl lg:text-2xl text-ag-primary-blue-800 font-medium">
+                            R&D platform tools in a box
+                        </h4>
+                        <p class="context-description sm:text-base text-gray-600">
+                            Jumpstart the adoption of AI-powered in silico models with pre-packaged platforms and solutions for your area.
+                        </p>
+                    </div>
+                </div>
+
+            
+
+        </div>
+    </section>
+
+</div>
+    
+
+
+
+<div class="border-red-500 bg-ag-primary-blue-30">
+  <div
+    class="section-inner-wrapper max-w-screen-xl ag-container-padding py-4 mx-auto"
+  >
+    <!-- left side of hero section-->
+    <div class="py-4 sm:py-5 w-full">
+      <h2 class="ag-h3 text-center font-bol text-ag-primary-blue-400 w-full">
+        Learn more about our platforms, solutions and services
+      </h2>
+
+      <!--button container-->
+    </div>
+
+    <div class="py-2 w-full text-center flex items-center justify-center">
+      <a class="cta-button" href="mailto:info@aganitha.ai" id="cta">
+        GET IN TOUCH
+      </a>
+    </div>
+  </div>
+</div>
+
+
+
+
+    
+
+<div class="why-aganitha bg-gray-50">
+  <div class=" mx-auto max-w-screen-xl ag-container-padding  pt-12 md:pt-20 ">
+    <div class="md:px-16">
+      <h2 class="ag-h2 font-semibold text-center mb-6 md:mb-8 text-ag-primary-blue-500 ">
+        Why Aganitha?
+      </h2>
+
+      <h3 class="
+          md:text-xl text-gray-700
+          leading-relaxed
+          
+          text-center
+          md:w-4/5
+          mx-auto
+          md:mb-4
+        ">
+        Leverage our experience and strengths to build transformational solutions in biopharma.
+      </h3>
+    </div>
+
+    <div class="cards-container ">
+
+      <section class="text-gray-600 ">
+        <div class="md:py-12 py-8 mx-auto">
+          <div class="grid gap-4 lg:gap-0 md:grid-cols-2">
+            
+              <div class="p-2 lg:p-0 rounded-lg  md:max-w-xlg  mx-auto  group w-full">
+                <div class="
+              
+              
+                    flex
+                    rounded
+                    transition
+            duration-300
+                    group-hover:shadow-xl
+                    p-3
+                    lg:p-6
+                    sm:flex-row
+                    flex-col
+                  ">
+                  <div class="
+                      lg:w-16
+                      lg:h-16
+                      h-12
+                      w-12
+                      sm:mr-8 sm:mb-0
+                      mb-4
+                      p-2
+                      inline-flex
+                      items-center
+                      justify-center
+                      rounded-full
+                      transition
+                      duration-300
+                      group-hover:bg-ag-secondary-red
+                      bg-ag-primary-blue-500
+                    
+                      flex-shrink-0
+                    ">
+                    <img src=/assets/images/homepage/multidomain.svg class="w-3/4"/>
+                  </div>
+                  <div class="flex-grow">
+                    <h4
+                    class="text-gray-700 text-xl lg:text-2xl group-hover:text-ag-secondary-red-600 transition duration-300 font-medium mb-3">
+                      Multi-domain skills
+                    </h4>
+                    <p
+                    class="leading-relaxed text-base  transition duration-300 text-gray-700">
+                      We have built a robust multi-domain team that combines their expertise in Biology, Chemistry, AI/ML, DevOps, and Cloud to develop valuable solutions for our customers.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="p-2 lg:p-0 rounded-lg  md:max-w-xlg  mx-auto  group w-full">
+                <div class="
+              
+              
+                    flex
+                    rounded
+                    transition
+            duration-300
+                    group-hover:shadow-xl
+                    p-3
+                    lg:p-6
+                    sm:flex-row
+                    flex-col
+                  ">
+                  <div class="
+                      lg:w-16
+                      lg:h-16
+                      h-12
+                      w-12
+                      sm:mr-8 sm:mb-0
+                      mb-4
+                      p-2
+                      inline-flex
+                      items-center
+                      justify-center
+                      rounded-full
+                      transition
+                      duration-300
+                      group-hover:bg-ag-secondary-red
+                      bg-ag-primary-blue-500
+                    
+                      flex-shrink-0
+                    ">
+                    <img src=/assets/images/homepage/focus.svg class="w-3/4"/>
+                  </div>
+                  <div class="flex-grow">
+                    <h4
+                    class="text-gray-700 text-xl lg:text-2xl group-hover:text-ag-secondary-red-600 transition duration-300 font-medium mb-3">
+                      Deep focus
+                    </h4>
+                    <p
+                    class="leading-relaxed text-base  transition duration-300 text-gray-700">
+                      We are deeply invested in the biopharma industry, continually developing solutions, frameworks, and building blocks across the drug research &amp; development value chain.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="p-2 lg:p-0 rounded-lg  md:max-w-xlg  mx-auto  group w-full">
+                <div class="
+              
+              
+                    flex
+                    rounded
+                    transition
+            duration-300
+                    group-hover:shadow-xl
+                    p-3
+                    lg:p-6
+                    sm:flex-row
+                    flex-col
+                  ">
+                  <div class="
+                      lg:w-16
+                      lg:h-16
+                      h-12
+                      w-12
+                      sm:mr-8 sm:mb-0
+                      mb-4
+                      p-2
+                      inline-flex
+                      items-center
+                      justify-center
+                      rounded-full
+                      transition
+                      duration-300
+                      group-hover:bg-ag-secondary-red
+                      bg-ag-primary-blue-500
+                    
+                      flex-shrink-0
+                    ">
+                    <img src=/assets/images/homepage/foundation.svg class="w-3/4"/>
+                  </div>
+                  <div class="flex-grow">
+                    <h4
+                    class="text-gray-700 text-xl lg:text-2xl group-hover:text-ag-secondary-red-600 transition duration-300 font-medium mb-3">
+                      Solutions foundation
+                    </h4>
+                    <p
+                    class="leading-relaxed text-base  transition duration-300 text-gray-700">
+                      Our reference architecture and computational platform enable us to build high-quality solutions quickly, using DevOps to automate computing processes and leveraging cloud infrastructure for resource-intensive computing.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="p-2 lg:p-0 rounded-lg  md:max-w-xlg  mx-auto  group w-full">
+                <div class="
+              
+              
+                    flex
+                    rounded
+                    transition
+            duration-300
+                    group-hover:shadow-xl
+                    p-3
+                    lg:p-6
+                    sm:flex-row
+                    flex-col
+                  ">
+                  <div class="
+                      lg:w-16
+                      lg:h-16
+                      h-12
+                      w-12
+                      sm:mr-8 sm:mb-0
+                      mb-4
+                      p-2
+                      inline-flex
+                      items-center
+                      justify-center
+                      rounded-full
+                      transition
+                      duration-300
+                      group-hover:bg-ag-secondary-red
+                      bg-ag-primary-blue-500
+                    
+                      flex-shrink-0
+                    ">
+                    <img src=/assets/images/homepage/agile.svg class="w-3/4"/>
+                  </div>
+                  <div class="flex-grow">
+                    <h4
+                    class="text-gray-700 text-xl lg:text-2xl group-hover:text-ag-secondary-red-600 transition duration-300 font-medium mb-3">
+                      Agile + Enterprise-grade
+                    </h4>
+                    <p
+                    class="leading-relaxed text-base  transition duration-300 text-gray-700">
+                      Our leadership team is hands-on and brings the required variety of expertise, experience, and management: start-up + enterprise mindset, technology + domain skills, and small team incubation + large team scaling.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="p-2 lg:p-0 rounded-lg  md:max-w-xlg  mx-auto  group w-full">
+                <div class="
+              
+              
+                    flex
+                    rounded
+                    transition
+            duration-300
+                    group-hover:shadow-xl
+                    p-3
+                    lg:p-6
+                    sm:flex-row
+                    flex-col
+                  ">
+                  <div class="
+                      lg:w-16
+                      lg:h-16
+                      h-12
+                      w-12
+                      sm:mr-8 sm:mb-0
+                      mb-4
+                      p-2
+                      inline-flex
+                      items-center
+                      justify-center
+                      rounded-full
+                      transition
+                      duration-300
+                      group-hover:bg-ag-secondary-red
+                      bg-ag-primary-blue-500
+                    
+                      flex-shrink-0
+                    ">
+                    <img src=/assets/images/homepage/confidence.svg class="w-3/4"/>
+                  </div>
+                  <div class="flex-grow">
+                    <h4
+                    class="text-gray-700 text-xl lg:text-2xl group-hover:text-ag-secondary-red-600 transition duration-300 font-medium mb-3">
+                      Client centric
+                    </h4>
+                    <p
+                    class="leading-relaxed text-base  transition duration-300 text-gray-700">
+                      We make it easy for clients to engage with us in different projects while ensuring they retain Intellectual Property Rights (IPR) and Molecule licenses.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            
+              <div class="p-2 lg:p-0 rounded-lg  md:max-w-xlg  mx-auto  group w-full">
+                <div class="
+              
+              
+                    flex
+                    rounded
+                    transition
+            duration-300
+                    group-hover:shadow-xl
+                    p-3
+                    lg:p-6
+                    sm:flex-row
+                    flex-col
+                  ">
+                  <div class="
+                      lg:w-16
+                      lg:h-16
+                      h-12
+                      w-12
+                      sm:mr-8 sm:mb-0
+                      mb-4
+                      p-2
+                      inline-flex
+                      items-center
+                      justify-center
+                      rounded-full
+                      transition
+                      duration-300
+                      group-hover:bg-ag-secondary-red
+                      bg-ag-primary-blue-500
+                    
+                      flex-shrink-0
+                    ">
+                    <img src=/assets/images/homepage/collaboration.svg class="w-3/4"/>
+                  </div>
+                  <div class="flex-grow">
+                    <h4
+                    class="text-gray-700 text-xl lg:text-2xl group-hover:text-ag-secondary-red-600 transition duration-300 font-medium mb-3">
+                      Client teams - Research + IT
+                    </h4>
+                    <p
+                    class="leading-relaxed text-base  transition duration-300 text-gray-700">
+                      We work well with leaders and practitioners of biopharma companies’ research and IT divisions while ensuring that role and department-specific objectives are met with technology, domain, and management approaches.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </div>
+</div>
+    <div class="py-16">
+  <div class="max-w-screen-xl relative  solutions-drawer ag-container-padding mx-auto">
+    <div class="mb-8">
+      <h2 class="ag-h2 z-40 text-center   text-ag-primary-blue font-medium mb-4  w-full">
+        Our Solutions
+      </h2>
+      <h3 class="text-gray-600 z-40 ag-h4 text-center leading-relaxed">
+        Discover our solutions across the biopharma value chain.
+      </h3>
+      <!-- <div class="dot-container z-0 absolute top-0 left-0"> <img src="/assets/images/dot-grid.png" alt=""> </div> -->
+    </div>
+    <div class="border-red-500  gap-4  grid md:grid-cols-2 xl:grid-cols-3">
+      
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/knowledge-hubs/>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/hubs/hubs-wiki.png class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  Knowledge Hubs
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  AI-powered curation of fast-evolving R&D insights and Competitive landscape.
+                </p>
+                <a href=/biopharma/knowledge-hubs/ class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/omics-pipelining>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/omics/omics-final.png class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  Omics Pipelining
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  Rapid, scalable, affordable, managed enterprise-class Omics pipelining on HPC/Cloud as a managed service.
+                </p>
+                <a href=/biopharma/omics-pipelining class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/genome-wide-association-studies/>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/gwas/gwas.png class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  GWAS Platform
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  Interrogate biobank-scale WES datasets with a proven GWAS platform.
+                </p>
+                <a href=/biopharma/genome-wide-association-studies/ class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/antibody-engineering/>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/ae/intro.png class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  Antibody Engineering
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  <span class="italic">In silico</span> acceleration for antibody discovery, development, and manufacturing, furthering therapeutic solutions.
+                </p>
+                <a href=/biopharma/antibody-engineering/ class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/virtual-screening-for-faster-drug-development>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/vs/intro-vs.png class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  Virtual Screening
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  A high throughput, AI powered computational chemistry solution to  screen millions of molecules for a target protein and identify promising ones for downstream assays.
+                </p>
+                <a href=/biopharma/virtual-screening-for-faster-drug-development class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/reaction-modeling-for-predicting-reaction-yield/>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/rm/intro.png class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  Reaction Modeling
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  Machine Learning powered computational chemistry methods to predict reaction yield to eliminate unproductive experimentation in drug synthesis process.
+                </p>
+                <a href=/biopharma/reaction-modeling-for-predicting-reaction-yield/ class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/informatics-research-semantic-enrichment>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/ip/intro.webp class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  Informatics Research Enabler
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  A low code platform to quickly build semantic enrichment pipelines and meta data, helping faster & deeper informatics research.
+                </p>
+                <a href=/biopharma/informatics-research-semantic-enrichment class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/mrna-platform>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/mRNA/mrnaTranslationImage.jpeg class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  mRNA Platform
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  <span class="italic">In silico </span>platform to design complete sequences of mRNA therapeutic candidates accelerating drug discovery and development for Biopharma and Biotech companies.
+                </p>
+                <a href=/biopharma/mrna-platform class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+        <div class=" rounded solution-link-card group transition duration-300 lg:shadow-none shadow lg:hover:shadow-md px-6 py-6
+            md:max-w-md xl:max-w-sm">
+          <a href=/biopharma/smol-drug-discovery-design>
+            <div class="solution-image-wrapper">
+              <img src=/assets/images/solutions/smol/smolDiagram.png class="object-cover border h-60 md:h-72 lg:h-48 w-full   border-gray-200 rounded " alt=""></div>
+              <div class="solution-text-wrapper">
+                <h4 class=" text-xl lg:text-2xl font-medium my-6 text-ag-secondary-red-600">
+                  Drug Leads Generation
+                </h4>
+                <p class="text-base lg:text-lg text-gray-600 ">
+                  <span class="italic">In silico</span> platform for faster and cost-effective drug lead generation leveraging machine learning advances, high throughput docking, cloud, and HPC
+                </p>
+                <a href=/biopharma/smol-drug-discovery-design class="flex my-4  text-base text-ag-primary-blue-500 font-semibold">
+                  Read More
+                  <span class="flex items-center justify-center group-hover:translate-x-3 transform duration-300">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 ml-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/>
+                    </svg>
+                  </span>
+                </a>
+              </div>
+            </a>
+          </div>
+        
+      </div>
+    </div>
+  </div>
+
+    
+    
+
+
+    </div>
+    
+      <footer class="text-gray-50 cursor-default bg-ag-primary-blue-600 body-font">
+  <div class="max-w-screen-xl px-5 py-16 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap
+      flex-col">
+    <div class="w-64 flex-shrink-0 md:pl-14 mx-auto my-auto text-center md:text-left">
+      <a class="flex title-font mb-3 font-medium items-center md:justify-start justify-center text-gray-900" href="/">
+        <img src="/assets/images/ag-white.png" class="w-12" alt="">
+        <span class="ml-3 text-gray-50 text-xl">aganitha</span>
+      </a>
+      <p class="mt-2 text-base text-gray-50">Accelerate drug discovery and development with
+        <span class="italic">in silico</span>
+        solutions.</p>
+    </div>
+    <div class="flex-grow flex flex-wrap md:pl-20 lg:pl-14 -mb-10 md:mt-0 mt-10 md:text-left text-center">
+      <div class="lg:w-1/5 md:w-1/2 w-full lg:pl-5">
+        <h2 class="title-font font-bold text-ag-tertiary-yellow-500 tracking-widest text-sm mb-3">SOLUTIONS</h2>
+        <nav class="list-none mb-10">
+          <li>
+            <a href="/biopharma/solutions-overview/" class="footer-link">Solutions Overview</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/biopharma/knowledge-hubs/">Knowledge Hubs</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/biopharma/omics-pipelining/">Omics Pipelines</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/biopharma/genome-wide-association-studies">GWAS Pipelines</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href='/biopharma/antibody-engineering/'>Antibody Engineering</a>
+          </li>
+        </nav>
+      </div>
+      <div class="lg:w-1/5 md:w-1/2 w-full lg:pl-5">
+        <h2 class="hidden md:block title-font font-bold text-ag-primary-blue-600 tracking-widest text-sm mb-3">SOLUTIONS
+        </h2>
+        <nav class="list-none mb-10">
+          <li class="-mt-8 sm:mt-0">
+            <a href="/biopharma/reaction-modeling-for-predicting-reaction-yield" class="footer-link">Reaction Modeling</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/biopharma/virtual-screening-for-faster-drug-development">Virtual Screening</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/biopharma/mrna-platform">mRNA Platform</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/biopharma/smol-drug-discovery-design">SMOL Drug Design</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href='/biopharma/semantic-enrichment-for-informatics-research'>Semantic Enrichment</a>
+          </li>
+        </nav>
+      </div>
+      <div class="lg:w-1/5 md:w-1/2 w-full  lg:pl-7">
+        <h2 class="title-font font-bold text-ag-tertiary-yellow-500 tracking-widest text-sm mb-3">SERVICES</h2>
+        <nav class="list-none mb-10">
+          <li class="my-1">
+            <a href="/services/drug-discovery-services-overview" class="footer-link">Services Overview</a>
+          </li>
+          <li class="my-1">
+            <a href="/services/computation-chemistry-cheminformatics" class="footer-link">Computational Chemistry</a>
+          </li>
+          <li class="my-1">
+            <a href="/services/computational-biology-bioinformatics" class="footer-link">Computational Biology</a>
+          </li>
+          <li class="my-1">
+            <a href="/services/technology-infrastructure-solutions-for-biopharma" class="footer-link">Technology and Infrastructure</a>
+          </li>
+          
+        </nav>
+      </div>
+      <div class="lg:w-1/5 md:w-1/2 w-full  lg:pl-10">
+        <h2 class="title-font font-bold text-ag-tertiary-yellow-500 tracking-widest text-sm mb-3">COMPANY</h2>
+        <nav class="list-none mb-10">
+          <li class="my-1">
+            <a class="footer-link" href="/about">About Us</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/team">Leadership</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/contact/">Contact Us</a>
+          </li>
+          <li class="my-1">
+            <a class="footer-link" href="/careers/">Join Us</a>
+          </li>
+        </nav>
+      </div>
+      <div class="lg:w-1/5 md:w-1/2 w-full ">
+        <h2 class="title-font font-bold text-ag-tertiary-yellow-500 tracking-widest text-sm mb-3">LEGAL</h2>
+        <nav class="list-none mb-10">
+          <li class="my-1">
+            <a href="/legal" class="footer-link">Privacy Policy</a>
+          </li>
+          <li class="my-1">
+            <a href="/legal#cookies-section" class="footer-link">Cookie Policy</a>
+          </li>
+        </li>
+      </nav>
+    </div>
+  </div>
+</div>
+<div class="bg-white" aria-labelledby="footer-heading">
+  <h2 id="footer-heading" class="sr-only">Footer</h2>
+  <div class="px-4 py-3 mx-auto bg-gray-100 w-full sm:px-6 lg:px-16">
+    <div class="flex flex-wrap items-baseline justify-center">
+      <p class=" text-sm sm:text-base  text-ag-primary-blue mr-2">
+        Copyright © 2017-2022 Aganitha AI Inc.
+      </p>
+      <p class="text-sm sm:text-base  text-ag-primary-blue">
+        All rights reserved.
+      </p>
+    </div>
+  </div>
+</div></footer>
+    
+    
+      <script>
+        // ------------------------------ cookie consent library: import
+        var link = document
+          .createElement('link')
+          link
+          .setAttribute('rel', 'stylesheet')
+          link
+          .setAttribute('type', 'text/css')
+        link
+        .setAttribute('href', 'https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css')
+      document
+      .head
+      .appendChild(link)
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.js';
+    document.head.appendChild(script)
+    // ------------------------------ document.getElementsByTagName('head')[0].appendChild(script);
+    // document.getElementsByTagName('head')[0].innerHTML += `<link rel="stylesheet" type="text/css"
+    //       href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.1/cookieconsent.min.css" />`
+    var popup;
+    window.addEventListener('load', function () {
+      window.cookieconsent.initialise({
+        // set revokeBtn if you don't want to see a tiny pullup bar overlapping your website if revokeBtn is set, make sure to
+        // include a link to cookie settings in your footer you can open your banner again with: popup.open(); revokeBtn: "<div
+        // class='cc-revoke'></div>",
+        type: "opt-in",
+        content: {
+          header: 'Cookies used on the website!',
+          message: "This website uses cookies to ensure you get the best experience on our website.",
+          dismiss: 'Got it!',
+          allow: 'Allow all cookies',
+          deny: 'Allow necessary cookies',
+          link: "Learn More",
+          href: "/legal/#cookies-section",
+          close: '&#x274c;',
+          policy: 'Cookie Policy',
+          target: '_blank'
+        },
+        theme: "classic",
+        palette: {
+          popup: {
+            background: "#000",
+            text: "#fff"
+          },
+          button: {
+            background: "#942228",
+            text: "#fff"
+          }
+        },
+        onInitialise: function (status) { // request gtag.js on page-load when the client already consented
+          if (status == cookieconsent.status.allow) 
+            setCookies();
+          
+        },
+        onStatusChange: function (status) { // resquest gtag cookies on a new consent
+          if (this.hasConsented()) 
+            setCookies();
+           else 
+            deleteCookies(this
+              .options
+              .cookie
+              .name)
+          
+        },
+        /* enable this to hide the cookie banner outside GDPR regions
+    law: {
+      regionalLaw: false,
+    },
+    location: true,
+    }, */
+        function (p) {
+          popup = p;
+        }
+      });
+    })
+    // it is absolutely crucial to define gtag in the global scope
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'UA-177277145-2', {'anonymize_ip': true});
+    // gtag('event', search, { 'event_category':'engagement', 'event_label':'search_term' })
+    function setCookies() {
+      var s = document.createElement('script');
+      s.type = "text/javascript"
+      s.async = "true";
+      s.src = "https://www.googletagmanager.com/gtag/js?id=UA-177277145-1";
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+      // you can add facebook-pixel and other cookies here
+    };
+    function deleteCookies(cookieconsent_name) {
+      var keep = [cookieconsent_name, "DYNSRV"];
+      document
+        .cookie
+        .split(';')
+        .forEach(function (c) {
+          c = c.split('=')[0].trim();
+          if (!~ keep.indexOf(c)) 
+            document.cookie = c + '=;expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/';
+          
+        });
+    };
+      </script>
+    
+    <script src="/assets/scripts/own-carousel.min.js"></script>
+    <script src="/assets/scripts/acc.js"></script>
+  </body>
+</html>

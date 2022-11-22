@@ -1,0 +1,5 @@
+typer
+requests
+aganitha_base_utils
+bs4
+csv
