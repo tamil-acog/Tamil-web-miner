@@ -14,7 +14,7 @@ app = typer.Typer()
 
 @app.command()
 def download(input_file: str, out_directory: str) -> None:
-    """Downloads the url content and extracts the title for you"""
+    """Downloads the url content"""
     valid_url_checker(input_file)
     with open('valid_urls.txt', 'r') as file:
         files_num: int = 0
@@ -32,6 +32,7 @@ def download(input_file: str, out_directory: str) -> None:
 
 
 def title_parser(input_file: str, out_directory: str):
+    """Extracts the Title"""
     url_num: int = 0
     all_urls: list[str] = []
     with open(input_file) as file:
@@ -51,6 +52,7 @@ def title_parser(input_file: str, out_directory: str):
 
 
 def valid_url_checker(input_file: str) -> None:
+    """Checks the valid urls and returns only those that are valid"""
     if not os.path.exists(input_file):
         print("The input file {} does not exist in home directory.".format(input_file),
               "Please create an input text file and add urls in it ")
