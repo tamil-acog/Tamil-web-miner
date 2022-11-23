@@ -39,7 +39,7 @@ def title_parser(input_file: str, out_directory: str):
         for url in file:
             all_urls.append(url)
     for file in os.listdir("./" + out_directory):
-        with open(os.path.join(".",out_directory,str(file)), 'r') as open_file:
+        with open(os.path.join(".", out_directory, str(file)), 'r') as open_file:
             index = open_file.read()
             soup = BeautifulSoup(index, 'html.parser')
             with open('titles.csv', 'a') as csv_file:
