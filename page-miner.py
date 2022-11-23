@@ -15,7 +15,8 @@ app = typer.Typer()
 @app.command()
 def download(input_file: str, out_directory: str) -> None:
     """Downloads the url content and extracts the title for you"""
-    with open(input_file) as file:
+    valid_url_checker(input_file)
+    with open('valid_urls.txt', 'r') as file:
         files_num: int = 0
         for url in file:
             r: requests.models.Response = requests.get(url, allow_redirects=True)
@@ -47,6 +48,24 @@ def title_parser(input_file: str, out_directory: str):
                 elif soup.head:
                     writer.writerow([soup.head.title.get_text(), all_urls[url_num]])
         url_num += 1
+
+
+def valid_url_checker(input_file: str) -> None:
+    if not os.path.exists(input_file):
+        print("The input file {} does not exist in home directory.".format(input_file),
+              "Please create an input text file and add urls in it ")
+        exit()
+    with open(input_file, 'r') as file:
+        if os.path.exists('valid_urls.txt'):
+            with open('valid_urls.txt', 'a') as url_file:
+                url_file.write('\n')
+        for url in file:
+            r: requests.models.Response = requests.get(url, allow_redirects=True)
+            if r.status_code < 400:
+                with open('valid_urls.txt', 'a') as url_file:
+                    url_file.write(url)
+            else:
+                print("This url {} is not downloadable".format(url))
 
 
 if __name__ == "__main__":
